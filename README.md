@@ -1,4 +1,5 @@
 🧬 Transcriptomic Mapping of Neuroplasticity in the Human Cortex
+
 📌 Overview
 This project analyzes a 7.23 GB single-cell RNA sequencing (scRNA-seq) dataset from the human cerebral cortex to identify and map neural subtypes responsible for tissue repair. By isolating the expression of key recovery markers (such as BDNF and GAP43), this analysis provides a molecular foundation for understanding stroke recovery mechanisms and informing targeted neuro-rehabilitative therapies.
 
